@@ -1,0 +1,19 @@
+<!-- Base URL: https://www.smsgatewayhub.com/api/mt/SendSMS? -->
+<SmsQueue>
+    <Account>
+        <APIKey>6f9XXXXXXX</APIKey>
+        <SenderId>XXXXXX</SenderId>
+        <Channel>2</Channel>
+        <EntityId>13011XXXXXXXX</EntityId>
+        <DCS>0</DCS>
+        <FlashSms>0</FlashSms>
+        <Route>1</Route>
+    </Account>
+    <Messages>
+        <Message>
+            <Number>9144XXXXXX</Number>
+            <Text>XXXXXXXX</Text>
+            <DltTemplateId>130716XXXXXXXXX</DltTemplateId>
+        </Message>
+    </Messages>
+</SmsQueue>
